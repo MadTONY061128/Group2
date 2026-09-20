@@ -45,6 +45,7 @@
 - A-2 | `../algorithm.md` | role: semantic basis | provenance: G-2/G-3 | validation: direct read and cross-check
 - A-3 | `answer.md` | role: deep exploration and answer | provenance: derived from A-1/A-2 | validation: SC-1–SC-4
 - A-5 | `supporters.md` | role: external philosophical and scientific grounding for `answer.md` structures | provenance: web research + established canon | validation: direct read; link spot-check
+- A-6 | `ascent.md` | role: humanistic elevation of the final position around subject ownership | provenance: derived from A-2/A-3; canon references compatible with A-5 | validation: direct read; formatting check
 - A-4 | `project.md` | role: execution ledger | provenance: current project | validation: section contract
 
 ## Checkpoints
@@ -76,6 +77,13 @@
 - Evidence: web research across decision theory, value psychology, agency, meaning research, LLM persuasion and mortality studies; `supporters.md` sections S2–S12.
 - Consequence: `answer.md` formal structures now have two support classes (canonical texts and empirical results); the course-textbook, Confucian-cultivation, longitudinal-AI, formal-optimization and commitment-measurement gaps are explicitly registered.
 - Next action: validate formatting and link integrity of `supporters.md`.
+
+### 2026-09-18 — humanistic elevation
+
+- Semantic change: added `ascent.md` elevating the final position: the question's implied purpose is to make the subject visible; subject ownership \(C_a\) is read as the unquantifiable, uncomputed presence that runs through canon (Delphic/Socratic examination, Confucian wei ren you ji, Mencian inner reflection, Augustine's restlessness, Kantian self-legislation, Kierkegaard's subjectivity, Sartrean freedom and responsibility, Frankl's attitude-choice, Wang Yangming's liangzhi) and marks the person's difference from an AI that can do everything in `answer.md`; the AI era's new alienation is read as the subject volunteering to be computed, and self-realization as staying in the subject position of the loop.
+- Evidence: direct read of `answer.md`, `essay.md`, `supporters.md`; `ascent.md` sections 一–六; `git diff --check -- 0918_explore`.
+- Consequence: the final position is now a two-sided one: AI cannot answer for the subject, and what the subject can do is exactly the non-delegable ownership that AI cannot compute; canon references in `ascent.md` stay compatible with the source-level conventions of `supporters.md`.
+- Next action: optional merge of the elevation's closing move into `essay.md` if the user wants a single deliverable.
 
 ## Open Questions
 
