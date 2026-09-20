@@ -37,13 +37,31 @@
 - [x] W-2 | 对目的、态度、价值、意义和 AI 生成分别进行多角度探索
 - [x] W-3 | 编写并交叉审核 `answer.md`
 - [x] W-4 | 执行格式与语义一致性校验
+- [x] W-5 | 为 `answer.md` 根基结构添加外部支撑（`supporters.md`）
 
 ## Artifacts
 
 - A-1 | `../problem.md` | role: source problem | provenance: G-2 | validation: direct read
 - A-2 | `../algorithm.md` | role: semantic basis | provenance: G-2/G-3 | validation: direct read and cross-check
 - A-3 | `answer.md` | role: deep exploration and answer | provenance: derived from A-1/A-2 | validation: SC-1–SC-4
+- A-5 | `supporters.md` | role: external philosophical and scientific grounding for `answer.md` structures | provenance: web research + established canon | validation: direct read; link spot-check
 - A-4 | `project.md` | role: execution ledger | provenance: current project | validation: section contract
+
+## Checkpoints
+
+### 2026-09-18 — initialization
+
+- Semantic change: created an exploration control plane; no claim about the answer has been added yet.
+- Evidence: G-1–G-4; `0918_explore/.codex/project.md`.
+- Consequence: exploration will maintain explicit mainline, argument interfaces and residual unknowns.
+- Next action: construct the unknown-degree graph and multi-angle inquiry chains.
+
+### 2026-09-18 — deep exploration draft
+
+- Semantic change: translated the basis into a mainline from candidate structure generation through subject commitment, practice feedback and second-order meaning interpretation; treated AI as an endogenous environment intervention.
+- Evidence: direct reading of `../problem.md` and `../algorithm.md`; `answer.md` sections I–VI.
+- Consequence: major gaps are represented as U-1–U-7 chains with current convergence and residual boundaries; philosophical and natural-philosophical support is separated into I-1–I-7 interfaces.
+- Next action: run structural, formatting and basis-consistency checks.
 
 ### 2026-09-18 — validation
 
@@ -52,17 +70,12 @@
 - Consequence: deliverable is structurally inspectable with mainline, U-1–U-7 unknown chains, I-1–I-7 argument interfaces and final answer.
 - Next action: hand off `0918_explore/answer.md`; retain open interfaces for later external philosophical sources or course-specific definitions.
 
+### 2026-09-18 — supporters added
 
-- Semantic change: translated the basis into a mainline from candidate structure generation through subject commitment, practice feedback and second-order meaning interpretation; treated AI as an endogenous environment intervention.
-- Evidence: direct reading of `../problem.md` and `../algorithm.md`; `answer.md` sections I–VI.
-- Consequence: major gaps are represented as U-1–U-7 chains with current convergence and residual boundaries; philosophical and natural-philosophical support is separated into I-1–I-7 interfaces.
-- Next action: run structural, formatting and basis-consistency checks.
-
-
-- Semantic change: created an exploration control plane; no claim about the answer has been added yet.
-- Evidence: G-1–G-4; `0918_explore/.codex/project.md`.
-- Consequence: exploration will maintain explicit mainline, argument interfaces and residual unknowns.
-- Next action: construct the unknown-degree graph and multi-angle inquiry chains.
+- Semantic change: added `supporters.md` grounding each base structure of `answer.md` in canonical philosophical positions and verifiable empirical findings; added a residual-gap register for interfaces that still lack strong sources.
+- Evidence: web research across decision theory, value psychology, agency, meaning research, LLM persuasion and mortality studies; `supporters.md` sections S2–S12.
+- Consequence: `answer.md` formal structures now have two support classes (canonical texts and empirical results); the course-textbook, Confucian-cultivation, longitudinal-AI, formal-optimization and commitment-measurement gaps are explicitly registered.
+- Next action: validate formatting and link integrity of `supporters.md`.
 
 ## Open Questions
 
