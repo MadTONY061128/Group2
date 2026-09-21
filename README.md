@@ -28,6 +28,9 @@
 | `0918_explore/supporters.md` | 外部论据支撑 | 为 `answer.md` 的形式对象接入哲学经典与经验科学证据，逐项标注来源层级 |
 | `0918_explore/essay.md` | 自然语言论述 | 面向读者的完整论述，最终交付文本 |
 | `0918_explore/ascent.md` | 人文升华 | 主体归属的古今通性与 AI 时代人的自我实现 |
+| `presentation/09212227_draft.md` | 演讲台本 | 双人台本《请给我的人生开 full access》，12 幕对应 PPT，附信息载荷对照 |
+| `presentation/09212240_7addressers_draft.md` | 七人台本 | 六种人生串行追问同一问题，1 人扮演 AI + 6 位提问者；每问含完整建模弧线（建模→计算→边界），9 幕对应 PPT，附信息载荷对照 |
+| `presentation/components/` | 台本组件 | 起、对话1–6、收八个文件；AI 解释讲义级详尽，逐幕展开 `algorithm.md` §1–§11，供分幕排练 |
 | `0918_explore/.codex/project.md` | 项目执行台账 | 目标、边界、证据状态、决策、检查点与开放问题 |
 
 ## 信息流
